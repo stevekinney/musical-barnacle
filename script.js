@@ -7,7 +7,7 @@ function subtract(a, b) {
 }
 
 function multiply(a, b) {
-  return Math.pow(a, 2);
+  return a * a;
 }
 
 function divide(a, b) {
